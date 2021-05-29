@@ -1,5 +1,5 @@
-# purescript-polyform-validators
+# DEPRECATED
 
-Set of useful validators which are build on top of `Validator` and `Dual` from purescript-polyform.
+The library is no longer maintained under this repository. It has been splitted into several batteries-* libs under https://github.com/purescript-polyform org.
 
-Heavy refactoring. New release soon.
+The previous releases will continue to work for older libraries that still depend on them.
